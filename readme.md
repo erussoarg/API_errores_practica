@@ -21,5 +21,4 @@ Recordar que se debe crear en la carpeta modelo un archivo exceptions.py donde t
 - class UserNotFound(Exception)
 - class DatabaseError(Exception)
 
-
-
+Utilizar Thunder Client de las extensiones de VSC para probar Get, Put,Delete, Post
